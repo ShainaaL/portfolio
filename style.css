@@ -227,6 +227,13 @@ div.rapport{
     border-radius: 17px;
 }
 
+section.tableau{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: large;
+    text-decoration: underline;
+}
+
 section.veille{
     text-align: center;
     font-family: 'Poppins', sans-serif;
@@ -238,7 +245,16 @@ div.veille{
     border-radius: 17px;
 }
 
+div.veille2{
+    width: 50%;
+    float: left;
+}
+
 p.veille{
+    text-align: center;
+}
+
+p.veille2{
     text-align: left;
 }
 
